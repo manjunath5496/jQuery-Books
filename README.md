@@ -22,19 +22,18 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(16).pdf" style="text-decoration:none;">Smashing jQuery</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(17).rar" style="text-decoration:none;">Head First jQuery</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(18).pdf" style="text-decoration:none;">MySQL Crash Course</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(18).pdf" style="text-decoration:none;">JQuery In 8 Hours</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(19).pdf" style="text-decoration:none;">MySQL Group Replication and MySQL InnoDB Cluster</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(19).pdf" style="text-decoration:none;">A Software Engineer Learns HTML5, JavaScript and jQuery</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(20).pdf" style="text-decoration:none;">MySQL for Python</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(21).pdf" style="text-decoration:none;">Creating your MySQL Database: Practical Design Tips and Techniques</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(20).pdf" style="text-decoration:none;">jQuery Fundamentals</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(21).pdf" style="text-decoration:none;"> jQuery: Visual QuickStart Guide </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(22).pdf" style="text-decoration:none;">Expert MySQL</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(22).pdf" style="text-decoration:none;">jQuery Essentials</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(23).pdf" style="text-decoration:none;">High Availability MySQL Cookbook</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(23).pdf" style="text-decoration:none;">jQuery Kochbuch</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(24).pdf" style="text-decoration:none;">MySQL Admin Cookbook</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(25).pdf" style="text-decoration:none;">MySQL Reference Manual</a></b></li>
-
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(24).pdf" style="text-decoration:none;">jQuery Mobile: Up and Running</a></b></li>
+                         
 
 </ul>
